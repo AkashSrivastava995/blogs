@@ -8,8 +8,3 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
-nav:
-  - Home: index.md
-  - Blogs:
-      - First Blog: blogs/first-blog.md
-      - Second Blog: blogs/second-blog.md
